@@ -7,6 +7,10 @@
 3. 각 아기사자의 멘토는 Wiki에 아기사자의 과제 현황을 체크한다
 
 ## 1팀
+멘토: **이현승**
+
+멘티: **김지원**, **이자민**, **양종욱**
+
 <div>
   <a href="https://github.com/jaminleee">
     <img src="https://avatars.githubusercontent.com/u/91969458?v=4" width="100" style="max-width: 100%;">
@@ -20,6 +24,9 @@
 </div>
 
 ## 2팀
+멘토: **이현승**
+
+멘티: **김지원**, **이자민**, **양종욱**
 <div>
   <a href="https://github.com/JongukYang">
     <img src="https://avatars.githubusercontent.com/u/73643657?v=4" width="100" style="max-width: 100%;">
